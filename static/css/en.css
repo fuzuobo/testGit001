@@ -1,0 +1,87 @@
+/* 英文网站样式 */
+.nav-wrap {
+    text-align: center;
+}
+.nav li {
+    padding: 0 20px;
+    width:auto;
+    font-size: 14px;
+    display: inline-block;
+    float: none;
+}
+.phDetail .nav li {
+    padding:0 28px;
+}
+.menu-name li {
+    font-size: 14px;
+    font-weight: bold;
+}
+.menu-name li a {
+    letter-spacing:0;
+    padding:0;
+}
+.search-input input {
+    font-size: 12px;
+}
+.carousel li h4,.search_pic li h4 {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.carousel li span ,.search_pic li span{
+    font-size: 12px;
+    padding:0 20px;
+    line-height: 20px;
+}
+.search_pic li h4 {
+    line-height: 24px;
+    padding-top: 18px;
+}
+button.more,.detailMore span {
+    padding:10px 20px;
+}
+button.more a, button.more span,.detailMore span {
+    font-size: 14px;
+}
+.jgg>div h3 {
+    padding-left:0;
+    letter-spacing:0;
+    font-size: 16px;
+    font-weight: bold;
+}
+.login_success span.name, div.DropdownMenu li a{
+    font-size: 12px;
+}
+/* search */
+.search .left h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+.condition_search h5 {
+    letter-spacing: 0;
+    font-size: 14px;
+}
+.selected li {
+    font-size: 12px;
+}
+.selectedMore ul li, .selectedMore_dw ul li, .selectedMore_zc ul li, .selectedMore_xw ul li, .selectedMore_xk ul li, .selectedMore_jg ul li {
+    margin:5px;
+}
+/* 人物新闻 */
+.aside_personage .menuName_list ul li {
+    padding:8px 17px 8px 10px;
+    line-height: 16px;
+    height: auto;
+    position: relative;
+    font-size: 12px;
+}
+.aside_personage .menuName_list ul li i {
+    position: absolute;
+    top: 50%;
+    margin-top: -17px;
+    right: 10px;
+}
+.article_personage h2.menuName {
+    font-size: 14px;
+    font-weight: bold;
+}
